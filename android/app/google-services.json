@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "943387737305",
+    "firebase_url": "https://nehalbrew.firebaseio.com",
+    "project_id": "nehalbrew",
+    "storage_bucket": "nehalbrew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943387737305:android:9b6e76a7627c1145ec12c8",
+        "android_client_info": {
+          "package_name": "com.example.nehalbrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943387737305-7ktl3vosusisbj60pn4f3u64joasob0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4z8zP3MtYnIYPuIvzisq9nCPo2yEtFCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943387737305-7ktl3vosusisbj60pn4f3u64joasob0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943387737305:android:4cf5d45b5f622e3cec12c8",
+        "android_client_info": {
+          "package_name": "com.example.nehalcoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943387737305-7ktl3vosusisbj60pn4f3u64joasob0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4z8zP3MtYnIYPuIvzisq9nCPo2yEtFCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943387737305-7ktl3vosusisbj60pn4f3u64joasob0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
